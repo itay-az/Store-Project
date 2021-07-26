@@ -1,0 +1,53 @@
+.logo {
+    padding: 0;
+    margin: 0;
+    height:150px;
+    color: black;
+}
+.pRow{
+    margin: 20px;
+    height: 150px;
+    width: 150px;
+
+}
+.pRowDesc{
+    font-size: 30px;
+    margin: 10px;
+    text-align: left;
+}
+.product{
+    margin-top:50px;
+    width:200px;
+    height:200px;
+}
+h1{
+    text-align:center;
+}
+p{
+    text-align:center;
+}
+.list{
+    margin-top:100px
+}
+.Header{
+    text-align: center;
+    margin: 45px 0px;
+}
+.cart-total{
+    font-size: 30x;
+}
+.header-description{
+    text-decoration: underline;
+    font-size: 25px;
+}
+.head{
+    background-color: black	;
+    color:white;
+    font-family: 'Pacifico', cursive;
+}
+
+
+body{
+    background-image: url(./images/Background.jpg);
+    font-family: 'Inconsolata', monospace;
+}
